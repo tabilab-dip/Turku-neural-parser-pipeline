@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+universal-lemmatizer/
+tokenizer/
+Parser-v2
+
 # Distribution / packaging
 .Python
 env/
