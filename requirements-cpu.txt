@@ -1,7 +1,7 @@
 wheel
 
 requests
-keras
+keras==2.3.1
 h5py
 matplotlib
 flask
@@ -11,8 +11,10 @@ pyyaml
 
 configargparse
 
-tensorflow==1.12.2
+tensorflow==1.14.0
 
 torch==0.4.1
 torchtext==0.3.1
 torchvision==0.2.1
+git+https://github.com/tabilab-dip/morphological_parser_sak.git
+importlib_resources
